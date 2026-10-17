@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/cmake_install.cmake",
+		"U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+# ogg pkg-config file
+
+prefix=U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows
+exec_prefix=U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/bin
+libdir=U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib
+includedir=U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/include
+
+Name: ogg
+Description: ogg is a library for manipulating ogg bitstreams
+Version: 1.3.6
+Requires:
+Conflicts:
+Libs: -L${libdir} -logg
+Cflags: -I${includedir}

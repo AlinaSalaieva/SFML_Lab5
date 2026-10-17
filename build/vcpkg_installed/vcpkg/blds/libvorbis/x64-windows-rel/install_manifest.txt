@@ -1,0 +1,16 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbis.pc
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbisenc.pc
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbisfile.pc
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/include/vorbis/codec.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/include/vorbis/vorbisenc.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/include/vorbis/vorbisfile.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/vorbis.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbis.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/vorbisenc.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbisenc.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/vorbisfile.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbisfile.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/cmake/Vorbis/VorbisTargets.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/cmake/Vorbis/VorbisTargets-release.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/cmake/Vorbis/VorbisConfig.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/cmake/Vorbis/VorbisConfigVersion.cmake

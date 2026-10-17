@@ -1,0 +1,8 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/bz2.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/bzip2.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/bzip2recover.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/edit_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/list_install_components.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/install.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-rel/CMakeFiles/install/local.dir

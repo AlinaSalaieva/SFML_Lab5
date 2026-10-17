@@ -1,0 +1,17 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/libpng16.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/bin/libpng16.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/png.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/pngconf.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/pnglibconf.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/libpng16/png.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/libpng16/pngconf.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/include/libpng16/pnglibconf.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/pkgconfig/libpng16.pc
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/libpng/libpng16.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/libpng/libpng16-release.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/libpng16.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/bin/libpng16.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/cmake/PNG/PNGTargets.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/cmake/PNG/PNGTargets-release.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/cmake/PNG/PNGConfig.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/cmake/PNG/PNGConfigVersion.cmake

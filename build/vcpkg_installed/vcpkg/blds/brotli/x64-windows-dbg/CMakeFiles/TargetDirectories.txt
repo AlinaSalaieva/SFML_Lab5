@@ -1,0 +1,9 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/brotlicommon.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/brotlidec.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/brotlienc.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/brotli.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/edit_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/list_install_components.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/install.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/brotli/x64-windows-dbg/CMakeFiles/install/local.dir

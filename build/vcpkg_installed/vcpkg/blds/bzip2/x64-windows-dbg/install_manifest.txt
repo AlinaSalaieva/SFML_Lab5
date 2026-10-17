@@ -1,0 +1,2 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/lib/bz2d.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/bin/bz2d.dll

@@ -1,0 +1,5 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/lib/bz2.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/bin/bz2.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/tools/bzip2/bzip2.exe
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/tools/bzip2/bzip2recover.exe
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/include/bzlib.h

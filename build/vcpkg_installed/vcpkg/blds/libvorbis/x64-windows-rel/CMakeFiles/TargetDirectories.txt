@@ -1,0 +1,13 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/edit_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/list_install_components.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/install.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/install/local.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbis.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbisenc.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbisfile.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/edit_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/rebuild_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/list_install_components.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/install.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/install/local.dir

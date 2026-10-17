@@ -1,0 +1,10 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/ogg.lib
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/bin/ogg.dll
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/include/ogg/config_types.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/include/ogg/ogg.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/include/ogg/os_types.h
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/cmake/Ogg/OggTargets.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/cmake/Ogg/OggTargets-release.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/cmake/Ogg/OggConfig.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/cmake/Ogg/OggConfigVersion.cmake
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/pkgconfig/ogg.pc

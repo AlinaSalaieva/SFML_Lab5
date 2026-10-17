@@ -1,0 +1,8 @@
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/ogg.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/package.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/package_source.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/edit_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/list_install_components.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/install.dir
+U:/SFML_Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-rel/CMakeFiles/install/local.dir
